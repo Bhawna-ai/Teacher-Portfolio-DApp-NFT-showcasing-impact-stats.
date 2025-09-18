@@ -1,0 +1,15 @@
+[package]
+name = "TeacherPortfolioDApp–NFTshowcasingimpact/stats"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "c02444e20a31e311853b3e9d214c12c7b5e6c8a7a637fc8c504ba71a676f1f61"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
