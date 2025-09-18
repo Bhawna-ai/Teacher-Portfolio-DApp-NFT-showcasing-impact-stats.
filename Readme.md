@@ -72,4 +72,4 @@ Our vision is to create a global ecosystem where teachers' contributions to soci
 
 ## Contract Details
 0x665ee509aa27d01371f59501243e84b01f4d8da780bdec7a360787ef5f1f9be1
-![alt text](c:\Users\Bhawna\OneDrive\Pictures\Screenshots\image.png)
+
